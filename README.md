@@ -1,5 +1,4 @@
-# last-mile
-Last-mile delay analysis using RIPE Atlas. 
+# Last-mile delay analysis using RIPE Atlas. 
 
 This repository contains a set of scripts used for the IMC'20 paper entitled:
 ['Persistent Last-mile Congestion: Not so Uncommon'](https://last-mile-congestion.github.io/last-mile-imc20-CR.pdf)

@@ -1,0 +1,9 @@
+bs4
+requests
+sqlite3
+matplotlib
+pandas
+numpy
+flask
+country_converter
+scipy
